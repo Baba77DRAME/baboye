@@ -1,0 +1,65 @@
+*{
+
+	background-color: dingray;
+	background-color: gray;
+	color: white;  
+}
+.jr{
+	border-radius: 20px;
+	background-color:orange;
+	border:3px solid black; 
+}
+.rj{
+	background-color:red;
+	color: white;
+	
+}
+.b{
+	background-color: red;
+	border:3px solid black;
+	color:white;
+	justify-content: space-between;
+}
+.po{
+	background-color: aquamarine;
+	border:3px solid black;
+	color:white;
+	margin-right: 25px;
+	padding: 5px;
+	order-radius: 20px;
+	background-color:darkkhaki;
+	font-size:30px; 
+
+}
+.hb{
+	background-color: black;
+	color:white;
+	margin-right: 25px;
+	justify-content: space-between;
+}
+.dd{
+	background-color: black;
+	color:white;
+	margin-right: 25px;
+	justify-content: space-between;
+}
+.ks{
+	background-color: black;
+	color: white;
+	margin-right: 25px;
+	justify-content: space-between;
+
+}
+.sd{
+	background-color: black;
+	color: white;
+	margin-right: 25px;
+	justify-content: space-between;
+}
+.bd{
+	background-color:orange;
+}
+.pm{
+	background-color: orange;
+	color:white;
+}
